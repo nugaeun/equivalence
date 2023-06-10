@@ -1,6 +1,6 @@
 # equivalence
 ## 이 모듈은 관계 R의 동치를 확인니다.
- (설치 방법: !git clone https://github.com/namu10664/equivalence.git)
+ (설치 방법: !git clone (https://github.com/nugaeun/equivalence.git))
  
  (위치 이동: %cd /content/equivalence/)
  
